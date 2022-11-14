@@ -15,3 +15,6 @@ The purpose of this project is to answer at least one of the questions: Which it
 <br>
 <br>
 To answer this question we will use the [apriori algorithm](https://www.vldb.org/conf/1994/P487.PDF), a classic ML model for association rules, and will implement it using the Python library [MLextend](https://rasbt.github.io/mlxtend/api_subpackages/mlxtend.frequent_patterns/), in particular the frequent_patterns subpackage. We are expecting to deliver a set of rules in which we indicate a given product that the user would add to the basket and then a consequent item which would be more likely to be added given what is already in the bag.
+<br>
+<br>
+Implementing this algorithm in the application will surely increase customer retention and transactions as the overall experience will be enhanced and users will find it easier and faster to do their shopping in this app compared to the competition.
